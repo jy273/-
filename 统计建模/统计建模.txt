@@ -1,0 +1,2 @@
+在python中使用贝叶斯公式，如果遇到空值就跳过，结果使用二维图像折线展示，打开‘C:\Users\金煜\PycharmProjects\scientificProject2\file.xlsx’获取第12、13、15列数据，12列为（UPDRS_ON）,13列为（UPDRS_OFF），15列为（Yrs Since Diagnosis）写出代码
+python写出贝叶斯公式计算三个变量，1为（UPDRS_ON）,2为（UPDRS_OFF），3为（Yrs Since Diagnosis）
